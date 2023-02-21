@@ -1,0 +1,19 @@
+
+
+
+
+enemy die and enemy collision
+enemy overlapping
+
+
+enemy crosses boundary spaceship dies
+
+
+
+level logic
+create waves of enemies
+10 enemies means 2 waves of 5 enemies and so on
+create 3 levels - 
+1. 10 enemies
+2. 20 enemies
+3. 25 enemies with boss
